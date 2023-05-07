@@ -1,0 +1,10 @@
+.navigation_cotainer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(0,0,0,0.9);
+}
+.nav_bar_link{
+     color:white;
+    /* text-decoration: none; */ 
+}

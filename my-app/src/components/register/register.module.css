@@ -1,0 +1,41 @@
+.personal_detail_container, .contact_detail_container, .other_detail_container, .address_detail_container{
+    display: flex;
+    flex-wrap: wrap;
+    /* //padding:20px; */
+    
+}
+.form_control{
+    min-width: 30%;
+    margin-top: 20px;
+}
+.form_label{
+    font-size: 14px;
+    margin-right: 10px;
+}
+.form_select{
+    min-width:100px;
+    padding:5px;
+}
+.form_input{
+    padding:5px;
+}
+.error_style{
+    color:red;
+}
+.all_users_button{
+    background:blue;
+    color:white;
+    padding:10px 10px;
+    border-radius: 8px ;
+    border:none;
+    cursor: pointer;
+}
+.submit_button{
+    background:green;
+    color:white;
+    padding:10px 10px;
+    border-radius: 8px;
+    border:none;
+    margin-top:20px;
+    cursor: pointer;
+}
